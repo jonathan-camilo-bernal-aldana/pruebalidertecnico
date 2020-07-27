@@ -1,0 +1,82 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "Utilities.Core.Interfaces/1.0.0": {
+        "dependencies": {
+          "Apache.NMS": "1.8.0",
+          "Apache.NMS.ActiveMQ": "1.7.2",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "Utilities.Core.Interfaces.dll": {}
+        }
+      },
+      "Apache.NMS/1.8.0": {
+        "runtime": {
+          "lib/netstandard2.0/Apache.NMS.dll": {
+            "assemblyVersion": "1.8.0.0",
+            "fileVersion": "1.8.0.0"
+          }
+        }
+      },
+      "Apache.NMS.ActiveMQ/1.7.2": {
+        "dependencies": {
+          "Apache.NMS": "1.8.0"
+        },
+        "runtime": {
+          "lib/net40/Apache.NMS.ActiveMQ.dll": {
+            "assemblyVersion": "1.7.2.4108",
+            "fileVersion": "1.7.2.4108"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Utilities.Core.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Apache.NMS/1.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kN2PzpT4YLseq0SRPfI0BKZ17PlkVwBUyug1KtauoVHe4QALSIlUCW8rkB/1kPpDCjvRF093FEEVGmMUhPhSew==",
+      "path": "apache.nms/1.8.0",
+      "hashPath": "apache.nms.1.8.0.nupkg.sha512"
+    },
+    "Apache.NMS.ActiveMQ/1.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-byKSg5/G7JGoDzSGGw4KK43/hpOGrXCtjZyjBcEjTF6ZscnrUiy8r20nyv85P55+nNmfa8q+tSF0GURd1GxYag==",
+      "path": "apache.nms.activemq/1.7.2",
+      "hashPath": "apache.nms.activemq.1.7.2.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    }
+  }
+}

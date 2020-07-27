@@ -1,0 +1,5 @@
+C:\Blacksip\Prueba Lider\teamleadertest\Domain.Core.Configuration\bin\Debug\netstandard2.0\Domain.Core.Configuration.deps.json
+C:\Blacksip\Prueba Lider\teamleadertest\Domain.Core.Configuration\bin\Debug\netstandard2.0\Domain.Core.Configuration.dll
+C:\Blacksip\Prueba Lider\teamleadertest\Domain.Core.Configuration\obj\Debug\netstandard2.0\Domain.Core.Configuration.AssemblyInfoInputs.cache
+C:\Blacksip\Prueba Lider\teamleadertest\Domain.Core.Configuration\obj\Debug\netstandard2.0\Domain.Core.Configuration.AssemblyInfo.cs
+C:\Blacksip\Prueba Lider\teamleadertest\Domain.Core.Configuration\obj\Debug\netstandard2.0\Domain.Core.Configuration.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Blacksip\Prueba Lider\teamleadertest\teamleadertest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Blacksip\Prueba Lider\teamleadertest\teamleadertest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Blacksip\Prueba Lider\teamleadertest\teamleadertest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Blacksip\Prueba Lider\teamleadertest\teamleadertest\obj\Debug\netcoreapp3.1\teamleadertest.csprojAssemblyReference.cache
+C:\Blacksip\Prueba Lider\teamleadertest\teamleadertest\obj\Debug\netcoreapp3.1\teamleadertest.AssemblyInfoInputs.cache
+C:\Blacksip\Prueba Lider\teamleadertest\teamleadertest\obj\Debug\netcoreapp3.1\teamleadertest.AssemblyInfo.cs
+C:\Blacksip\Prueba Lider\teamleadertest\teamleadertest\obj\Debug\netcoreapp3.1\teamleadertest.RazorTargetAssemblyInfo.cache
+C:\Blacksip\Prueba Lider\teamleadertest\teamleadertest\obj\Debug\netcoreapp3.1\staticwebassets\teamleadertest.StaticWebAssets.Manifest.cache
+C:\Blacksip\Prueba Lider\teamleadertest\teamleadertest\obj\Debug\netcoreapp3.1\staticwebassets\teamleadertest.StaticWebAssets.xml

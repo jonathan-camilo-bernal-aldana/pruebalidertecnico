@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>a8c7f9dd-6e32-4cd4-90c4-9e47aab505af</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Apache.NMS" Version="1.8.0" />
+    <PackageReference Include="Apache.NMS.ActiveMQ" Version="1.7.2" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.9" />
+    <PackageReference Include="MongoDB.Driver" Version="2.10.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application.Core.Implementation\Application.Core.Implementation.csproj" />
+    <ProjectReference Include="..\Infrastructure.Core.Implementation\Infrastructure.Core.Implementation.csproj" />
+    <ProjectReference Include="..\Infrastructure.Core.Interfaces\Infrastructure.Core.Interfaces.csproj" />
+    <ProjectReference Include="..\Services.Core.Implementation\Services.Core.Implementation.csproj" />
+    <ProjectReference Include="..\Services.Core.Interfaces\Services.Core.Interfaces.csproj" />
+    <ProjectReference Include="..\Utilities.Core.Implementation\Utilities.Core.Implementation.csproj" />
+  </ItemGroup>
+
+</Project>

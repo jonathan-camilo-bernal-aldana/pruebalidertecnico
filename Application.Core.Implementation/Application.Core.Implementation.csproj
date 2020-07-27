@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Apache.NMS" Version="1.8.0" />
+    <PackageReference Include="Apache.NMS.ActiveMQ" Version="1.7.2" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="3.1.6" />
+    <PackageReference Include="MongoDB.Driver" Version="2.10.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application.Core.Interfaces\Application.Core.Interfaces.csproj" />
+    <ProjectReference Include="..\Infrastructure.Core.Interfaces\Infrastructure.Core.Interfaces.csproj" />
+    <ProjectReference Include="..\Services.Core.Interfaces\Services.Core.Interfaces.csproj" />
+    <ProjectReference Include="..\Utilities.Core.Interfaces\Utilities.Core.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

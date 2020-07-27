@@ -1,0 +1,12 @@
+C:\Blacksip\Prueba Lider\teamleadertest\Infrastructure.Core.Interfaces\bin\Debug\netstandard2.0\Infrastructure.Core.Interfaces.deps.json
+C:\Blacksip\Prueba Lider\teamleadertest\Infrastructure.Core.Interfaces\bin\Debug\netstandard2.0\Infrastructure.Core.Interfaces.dll
+C:\Blacksip\Prueba Lider\teamleadertest\Infrastructure.Core.Interfaces\obj\Debug\netstandard2.0\Infrastructure.Core.Interfaces.csprojAssemblyReference.cache
+C:\Blacksip\Prueba Lider\teamleadertest\Infrastructure.Core.Interfaces\obj\Debug\netstandard2.0\Infrastructure.Core.Interfaces.AssemblyInfoInputs.cache
+C:\Blacksip\Prueba Lider\teamleadertest\Infrastructure.Core.Interfaces\obj\Debug\netstandard2.0\Infrastructure.Core.Interfaces.AssemblyInfo.cs
+C:\Blacksip\Prueba Lider\teamleadertest\Infrastructure.Core.Interfaces\bin\Debug\netstandard2.0\Infrastructure.Core.Interfaces.pdb
+C:\Blacksip\Prueba Lider\teamleadertest\Infrastructure.Core.Interfaces\obj\Debug\netstandard2.0\Infrastructure.Core.Interfaces.dll
+C:\Blacksip\Prueba Lider\teamleadertest\Infrastructure.Core.Interfaces\obj\Debug\netstandard2.0\Infrastructure.Core.Interfaces.pdb
+C:\Blacksip\Prueba Lider\teamleadertest\Infrastructure.Core.Interfaces\bin\Debug\netstandard2.0\Domain.Core.dll
+C:\Blacksip\Prueba Lider\teamleadertest\Infrastructure.Core.Interfaces\bin\Debug\netstandard2.0\Domain.Core.pdb
+C:\Blacksip\Prueba Lider\teamleadertest\Infrastructure.Core.Interfaces\obj\Debug\netstandard2.0\Infrastructure.Core.Interfaces.csproj.CopyComplete
+C:\Blacksip\Prueba Lider\teamleadertest\Infrastructure.Core.Interfaces\obj\Debug\netstandard2.0\Infrastructure.Core.Interfaces.csproj.CoreCompileInputs.cache

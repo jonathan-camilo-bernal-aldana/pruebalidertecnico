@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "++9yfQ5jtah6Twn4ReACPkK9Q6RYAW+3VCZphwo3uVXUPYvIFZ4fswyFmpPfnl69LvAz388AVq3bNUJXnzWE3g==",
+  "success": true,
+  "projectFilePath": "C:\\Blacksip\\Prueba Lider\\teamleadertest\\Utilities.Core.Interfaces\\Utilities.Core.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JONATHANBERNAL\\.nuget\\packages\\apache.nms\\1.8.0\\apache.nms.1.8.0.nupkg.sha512",
+    "C:\\Users\\JONATHANBERNAL\\.nuget\\packages\\apache.nms.activemq\\1.7.2\\apache.nms.activemq.1.7.2.nupkg.sha512",
+    "C:\\Users\\JONATHANBERNAL\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JONATHANBERNAL\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Apache.NMS.ActiveMQ 1.7.2\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \".NETStandard,Version=v2.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "Apache.NMS.ActiveMQ",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}
